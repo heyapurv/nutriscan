@@ -13,6 +13,7 @@
     "@fontsource/akaya-telivigala": "^5.2.6",
     "@fontsource/sora": "^5.2.6",
     "gsap": "^3.13.0",
+    "lucide-react": "^0.544.0",
     "normalize.css": "^8.0.1",
     "react": "^19.1.0",
     "react-confetti": "^6.4.0",
